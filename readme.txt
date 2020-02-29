@@ -8,10 +8,12 @@ and change any of the information
 
 Change move_folder_path to the folder that you want to move the files to.
 You must also change path_to_files to that path with all your files
-For path_to_files absolute path only same with move_folder_path
+For path_to_files absolute path only
 Example path: /home/dummy/Desktop/modorg
+
+Set movefolderpath to where you want the files to be moved to
 
 This script works by looking for tags you put at the end of the file
 NO SPACES underscores will work.
 Example file name: mod_org_'category'.xyz
-where as category is the file tag you want to sort you files with 
+where as category is the file tag you want to sort you files with
